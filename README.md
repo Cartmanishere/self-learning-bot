@@ -13,7 +13,7 @@ This project was inspired by - [An introduction to Reinforcement Learning](https
 Our goal is to make this agent learn the policy to follow a line (detected by its sensors) by learning from its own mistakes.
 We do not explicitly provide any instructions to the bot. We only provide a free environment for the agent to interact and the environment will present reward for each action of the agent.
 
-### Contributor's
+### Contributors
 
 1. [Pranav Gajjewar](https://in.linkedin.com/in/pranav-gajjewar-a9647a137)
 2. [Omkar Thawakar](https://github.com/OmkarThawakar)
